@@ -44,3 +44,9 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MIL_ETRI](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=MIL_ETRI&theme=buefy&show_owner=true)](https://github.com/jwr0218/MIL_ETRI/tree/main)
   
+  
+### 손글씨 군집화 기반 OCR Model 
+* KSC 2023
+* 손글씨 유형을 군집화 하여 군집별 모델 개발
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PV2DOC](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=Cluster_OCR&theme=buefy&show_owner=true)]
