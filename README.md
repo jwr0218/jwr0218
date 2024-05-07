@@ -49,4 +49,4 @@
 * KSC 2023
 * 손글씨 유형을 군집화 하여 군집별 모델 개발
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Cluster_OCR](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=Cluster_OCR&theme=buefy&show_owner=true)](https://github.com/jwr0218/meta_ocr)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Cluster_OCR](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=meta_ocr&theme=buefy&show_owner=true)](https://github.com/jwr0218/meta_ocr)
