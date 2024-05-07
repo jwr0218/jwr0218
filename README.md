@@ -37,9 +37,6 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![Cuckoo_sandbox](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=CuckooSandbox_EVTX_Extract&theme=buefy&show_owner=true)](https://github.com/jwr0218/CuckooSandbox_EVTX_Extract)
 
-https://github.com/jwr0218/CuckooSandbox_EVTX_Extract
-
-
 ### PV2DOC (Presentation Video To Documentation)
 * Presentation Video를 Documentation Video로 변환하는 솔루션
 * Youtube Presentation Video를 바탕으로 실험 , 성능 확인
