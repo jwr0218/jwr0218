@@ -28,7 +28,6 @@
 ### Cluster-based Structuring Memory for Continual Learning in Attention-Based Multi-modal Model
 * Attention-based Model을 위한 Continual learning memory-replay based 방법론.
 * 2개의 데이터로 방법론 검증
-* 석사 졸업논문(예정)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PV2DOC](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=attention_continual&theme=buefy&show_owner=true)](https://github.com/jwr0218/attention_continual)
 
