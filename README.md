@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=100&section=header&text=JEONG%20WON-RYEOL&fontSize=50 />
+
 
 <h1 align="center"> JEONG  WON-RYEOL  </h1>
 
@@ -19,4 +21,12 @@
   
 </div>
 
+## Project 
+지금까지 진행했던 프로젝트에 대해 서술합니다. 
 
+### Cluster-based Structuring Memory for Continual Learning in Attention-Based Multi-modal Model
+* Attention-based Model을 위한 Continual learning memory-replay based 방법론.
+* 2개의 데이터로 방법론 검증
+* 석사 졸업논문(예정)
+
+### 
