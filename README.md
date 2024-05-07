@@ -33,9 +33,15 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PV2DOC](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=attention_continual&theme=buefy&show_owner=true)](https://github.com/jwr0218/attention_continual)
 
-### PV2DOC
+### PV2DOC (Presentation Video To Documentation)
 * Presentation Video를 Documentation Video로 변환하는 솔루션
 * Youtube Presentation Video를 바탕으로 실험 , 성능 확인
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PV2DOC](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=PV2DOC&theme=buefy&show_owner=true)](https://github.com/jwr0218/PV2DOC)
 
+### Modal Importance based Improved Lifelog Prediction Performance
+* ETRI 휴먼이해 인공지능 논문경진대회 한국전자통신연구원장상 **수상**
+* Multiple Instance Learning
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PV2DOC](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=Modal-Importance-based-Improved-lifelog-prediction-performance&theme=buefy&show_owner=true)](https://github.com/jwr0218/Modal-Importance-based-Improved-lifelog-prediction-performance)
+  
