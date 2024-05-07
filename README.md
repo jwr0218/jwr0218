@@ -24,7 +24,6 @@
 </div>
 
 ## Project 
-지금까지 진행했던 프로젝트에 대해 서술합니다. 
 
 ### Cluster-based Structuring Memory for Continual Learning in Attention-Based Multi-modal Model
 * Attention-based Model을 위한 Continual learning memory-replay based 방법론.
@@ -43,5 +42,5 @@
 * ETRI 휴먼이해 인공지능 논문경진대회 한국전자통신연구원장상 **수상**
 * Multiple Instance Learning
 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![PV2DOC](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=Modal-Importance-based-Improved-lifelog-prediction-performance&theme=buefy&show_owner=true)](https://github.com/jwr0218/Modal-Importance-based-Improved-lifelog-prediction-performance)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![MIL_ETRI](https://github-readme-stats.vercel.app/api/pin/?username=jwr0218&repo=MIL_ETRI&theme=buefy&show_owner=true)](https://github.com/jwr0218/MIL_ETRI/tree/main)
   
