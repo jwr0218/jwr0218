@@ -23,6 +23,11 @@
   
 </div>
 
+## Notion
+
+Notion Portfolio로 이동하려면 [link](https://amusing-headline-e49.notion.site/WonRyeol-Jeong-99680b37579e46168c83a11dcdd7ffab)를 클릭하세요. 
+
+
 ## Project 
 
 ### Cluster-based Structuring Memory for Continual Learning in Attention-Based Multi-modal Model
