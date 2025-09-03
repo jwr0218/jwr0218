@@ -1,7 +1,7 @@
 ### **:mag\_right: Introduction**
 
   - AI Engineer interested in **Multi-modal LLMs** and **AI agents**
-  - Master's degree in Artificial Intelligence from Korea University
+  - Master's degree in Artificial Intelligence from Seoul National University of Science and Technology
 
 -----
 
