@@ -1,11 +1,10 @@
-### **:mag\_right: Introduction**
+## **:mag\_right: Introduction**
 
   - AI Engineer interested in **Multi-modal LLMs** and **AI agents**
   - Master's degree in Artificial Intelligence from Seoul National University of Science and Technology
 
------
 
-### **:books: Publications**
+## **:books: Publications**
 
 **Cluster-based Structuring Memory for Continual Learning in Attention-Based Multi-modal Model**
 
@@ -34,15 +33,13 @@
   * Developed models for each cluster by clustering handwriting types.
   * 
 
------
 
-### **:office: Work Experience**
+
+## **:office: Work Experience**
 
   - **BrainVentures** (2024.09 \~ Current)
 
------
-
-### **:computer: Tech Stacks**
+## **:computer: Tech Stacks**
 
 
 <p align="left">
@@ -59,9 +56,8 @@
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
 
------
 
-### **:hammer\_and\_wrench: Projects**
+## **:hammer\_and\_wrench: Projects**
 
 
 
