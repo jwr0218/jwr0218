@@ -1,7 +1,3 @@
-죄송합니다. 저는 파일을 직접 생성해서 드릴 수는 없습니다. 하지만 마크다운 언어로 변환된 텍스트를 제공해 드릴 테니, 이 내용을 복사해서 README.md 파일에 직접 붙여넣으시면 됩니다.
-
------
-
 ### **:mag\_right: Introduction**
 
   - AI Engineer interested in **Multi-modal LLMs** and **AI agents**
