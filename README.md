@@ -1,65 +1,89 @@
-:mag_right: Introduction
-AI Engineer interested in Multi-modal LLMs and AI agents
+죄송합니다. 저는 파일을 직접 생성해서 드릴 수는 없습니다. 하지만 마크다운 언어로 변환된 텍스트를 제공해 드릴 테니, 이 내용을 복사해서 README.md 파일에 직접 붙여넣으시면 됩니다.
 
-Master's degree in Artificial Intelligence from Korea University
+-----
 
-:books: Publications
-"Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation," International Joint Conference on Neural Networks (IJCNN), 2023 (Oral).
+### **:mag\_right: Introduction**
 
-Y. Lee, M. Oh, H. Kim and S. Lee
+  - AI Engineer interested in **Multi-modal LLMs** and **AI agents**
+  - Master's degree in Artificial Intelligence from Korea University
 
-"LC-MSM: Language-Conditioned Masked Segmentation Model for unsupervised domain adaptation," Pattern Recognition, 2023.
+-----
 
-Y. Kim, Y. Lee and S. Lee,
+### **:books: Publications**
 
-"Text-Guiding with Cross-Attention for Unsupervised Domain Adaptive Semantic Segmentation," Korea Software Congress (KSC), 2023 (Best Paper).
+  - **"Enhancing Discriminative Ability among Similar Classes with Guidance of Text-Image Correlation for Unsupervised Domain Adaptation,"** International Joint Conference on Neural Networks (IJCNN), 2023 (Oral).
+    > Y. Lee, M. Oh, H. Kim and S. Lee
+  - **"LC-MSM: Language-Conditioned Masked Segmentation Model for unsupervised domain adaptation,"** Pattern Recognition, 2023.
+    > Y. Kim, Y. Lee and S. Lee,
+  - **"Text-Guiding with Cross-Attention for Unsupervised Domain Adaptive Semantic Segmentation,"** Korea Software Congress (KSC), 2023 (Best Paper).
+    > Y. Lee, G. Eun, S. Lee, S. Jin and J. Lee
 
-Y. Lee, G. Eun, S. Lee, S. Jin and J. Lee
+-----
 
-:office: Work Experience
-LaonRoad (2024.01 ~ Current)
+### **:office: Work Experience**
 
-:computer: Tech Stacks
-<p align="left">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white">
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
-<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-<img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
-</p>
+  - **LaonRoad** (2024.01 \~ Current)
 
-:bar_chart: Stats
-:hammer_and_wrench: Projects
-Cluster-based Structuring Memory for Continual Learning in Attention-Based Multi-modal Model
+-----
 
-Developed a memory-replay based method for Continual Learning in Attention-based Models.
+### **:computer: Tech Stacks**
 
-Verified the method with two datasets.
+\<p align="left"\>
+\<img src="[https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=Python\&logoColor=white](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white](https://img.shields.io/badge/Pytorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge\&logo=scikitlearn\&logoColor=white](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/R-276DC3?style=for-the-badge\&logo=r\&logoColor=white](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=MySQL\&logoColor=white](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/github-181717?style=for-the-badge\&logo=github\&logoColor=white](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)"\>
+\<img src="[https://img.shields.io/badge/fastapi-009688?style=for-the-badge\&logo=fastapi\&logoColor=white](https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white)"\>
+\</p\>
 
-Cuckoo Sandbox EVTX Extraction
+-----
 
-Developed a method to extract complete EVTX from the Cuckoo Sandbox operation.
+### **:bar\_chart: Stats**
 
-PV2DOC (Presentation Video To Documentation)
+[](https://www.google.com/search?q=%5Bhttps://github.com/anuraghazra/github-readme-stats%5D\(https://github.com/anuraghazra/github-readme-stats\))
 
-A solution for converting presentation videos into documentation videos.
+[](https://github.com/ryo-ma/github-profile-trophy)
 
-Experimented and verified performance based on YouTube presentation videos.
+-----
 
-Modal Importance based Improved Lifelog Prediction Performance
+### **:hammer\_and\_wrench: Projects**
 
-Awarded the Korea Electronics and Telecommunications Research Institute Director's Prize at the ETRI Human Understanding AI Paper Contest.
+**Cluster-based Structuring Memory for Continual Learning in Attention-Based Multi-modal Model**
 
-Utilized Multiple Instance Learning.
+  * Developed a memory-replay based method for Continual Learning in Attention-based Models.
+  * Verified the method with two datasets.
 
-Handwriting Clustering-based OCR Model
+[](https://github.com/jwr0218/attention_continual)
 
-Presented at KSC 2023.
+**Cuckoo Sandbox EVTX Extraction**
 
-Developed models for each cluster by clustering handwriting types.
+  * Developed a method to extract complete EVTX from the Cuckoo Sandbox operation.
+
+[](https://github.com/jwr0218/CuckooSandbox_EVTX_Extract)
+
+**PV2DOC (Presentation Video To Documentation)**
+
+  * A solution for converting presentation videos into documentation videos.
+  * Experimented and verified performance based on YouTube presentation videos.
+
+[](https://github.com/jwr0218/PV2DOC)
+
+**Modal Importance based Improved Lifelog Prediction Performance**
+
+  * **Awarded** the Korea Electronics and Telecommunications Research Institute Director's Prize at the ETRI Human Understanding AI Paper Contest.
+  * Utilized Multiple Instance Learning.
+
+[](https://github.com/jwr0218/MIL_ETRI/tree/main)
+
+**Handwriting Clustering-based OCR Model**
+
+  * Presented at KSC 2023.
+  * Developed models for each cluster by clustering handwriting types.
+
+[](https://github.com/jwr0218/meta_ocr)
