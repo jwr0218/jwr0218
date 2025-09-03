@@ -58,13 +58,6 @@
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 <img src="https://img.shields.io/badge/fastapi-009688?style=for-the-badge&logo=fastapi&logoColor=white">
 </p>
------
-
-### **:bar\_chart: Stats**
-
-[](https://www.google.com/search?q=%5Bhttps://github.com/anuraghazra/github-readme-stats%5D\(https://github.com/anuraghazra/github-readme-stats\))
-
-[](https://github.com/ryo-ma/github-profile-trophy)
 
 -----
 
