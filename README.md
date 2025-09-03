@@ -31,7 +31,6 @@
 
   * Presented at KSC 2023.
   * Developed models for each cluster by clustering handwriting types.
-  * 
 
 
 
